@@ -18,6 +18,12 @@
 - **Framework** Bootstrap
 
 ---
+## Steps
+Frontend & backend:
+
+npm install
+
+npm start
 
 ## Team
 <h1 style="color:blue">index.html</h1>
@@ -32,7 +38,7 @@
 
 <table>
   <tr>
-    <td align="center"><a target="blank" href="https://www.linkedin.com/in/sat02yam/"><img src="	https://res.cloudinary.com/dfyny8h4v/image/upload/…09524/Portfolio/20221028_195644-01_2_1_ispn1c.png" width="100px;" alt=""/><br /><sub><b>Satyam Shukla</b></sub></a><br /></td>
+    <td align="center"><a target="blank" href="https://www.linkedin.com/in/sat02yam/"><img src="https://res.cloudinary.com/dfyny8h4v/image/upload/…09524/Portfolio/20221028_195644-01_2_1_ispn1c.png" width="100px;" alt=""/><br /><sub><b>Satyam Shukla</b></sub></a><br /></td>
     <td align="center"><a target="blank" href="https://www.linkedin.com/in/sprakhar07/"><img src="https://res.cloudinary.com/dfyny8h4v/image/upload/v1667709524/Portfolio/20221028_195644-01_2_2_abb2gy.png" width="100px;" alt=""/><br /><sub><b>Prakhar Sharma</b></sub></a><br /></td>
     <td align="center"><a target="blank" href="https://www.linkedin.com/in/rucha-kasture-02/"><img src="https://res.cloudinary.com/dfyny8h4v/image/upload/v1667709525/Portfolio/IMG_2574_hshu31.png" width="100px;" alt=""/><br /><sub><b>Rucha Kasture</b></sub></a><br /></td>
     <td align="center"><a target="blank" href="https://www.linkedin.com/in/pankhurisrivastava2001/"><img src="https://res.cloudinary.com/dfyny8h4v/image/upload/v1667709524/Portfolio/Photo_i42szq.png" width="100px;" alt=""/><br /><sub><b>Pankhuri Srivastava</b></sub></a><br /></td>
