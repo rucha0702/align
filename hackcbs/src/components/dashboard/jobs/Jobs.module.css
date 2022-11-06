@@ -1,0 +1,51 @@
+.sidebar{
+    flex:0.2;
+}
+.rightSection{
+    flex:0.8;
+    height: 100vh;
+    /* background-color: yellow; */
+    background: #1F2123;
+    height:92vh;
+}
+.header{
+    flex:0.2;
+}
+.jobSection{
+    flex:0.8;
+}
+.jobCell{
+    background: #2A2E31;
+}
+.jobsLeft{
+    flex:0.8;
+}
+.apply{
+    flex:0.2;
+    position:absolute;
+    right:5%;
+}
+.title{
+    flex:0.35;
+    margin-left: 1rem;
+}
+.company{
+    flex:0.25;
+}
+.experience{
+    flex:0.2
+}
+.description{
+    flex:0.2;
+}
+.small{
+    color: #B5B5B5;
+    font-size: 0.9rem;
+}
+.applyBtn{
+    background:#3661EB;
+    border:none;
+}
+.applyBtn{
+    color: white;
+}

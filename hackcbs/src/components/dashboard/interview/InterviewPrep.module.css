@@ -1,0 +1,13 @@
+.sidebar{
+    flex:0.2;
+}
+.videoSection{
+    flex:0.8;
+}
+.questionSection{
+    flex:0.45;
+}
+.video{
+    flex:0.55;
+    background: #2A2E31;
+}

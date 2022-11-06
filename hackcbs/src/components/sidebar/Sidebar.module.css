@@ -1,0 +1,61 @@
+.sidebar{
+    height:100%;
+    background: #1F2123;
+    height:100vh;
+    position: relative;
+}
+.userDetails{
+    position: absolute;
+    bottom:10%;
+}
+.cell:hover,.cell:active{
+   background: white;
+   color:#000;
+}
+.cells{
+ position: relative;
+}
+.logo{
+    background: url('../images/LOGO.svg') no-repeat center center/cover;
+    height:2.5rem;
+    width:5rem;
+    position: relative;
+    left:-1rem;
+    top:-1rem;
+}
+.logo1{
+    background: url('../images/1.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
+.logo2{
+    background: url('../images/2.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
+.logo3{
+    background: url('../images/3.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
+.logo4{
+    background: url('../images/4.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
+.logo5{
+    background: url('../images/5.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
+.logo6{
+    background: url('../images/6.png') no-repeat center center/cover;
+    height: 1rem;
+    width:1rem;
+    margin-right: 0.8rem;
+}
