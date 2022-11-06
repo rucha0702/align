@@ -1,4 +1,4 @@
-<p align = "center"><img src="./assets/images/Study online 1.png" alt="The CircuitVerse logo" width="400"/></p>
+<p align = "center"><img width="385px" height="597.83px" src="https://res.cloudinary.com/de4by5q8o/image/upload/v1667713496/Group_3_vsfogd.png" alt="The CircuitVerse logo" width="400"/></p>
 
 # Align
 
